@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brunokutacho/webdriverioFramework/issues"
   },
-  "homepage": "https://github.com/brunokutacho/webdriverioFramework#readme"
+  "homepage": "https://github.com/brunokutacho/webdriverioFramework#readme",
+  "dependencies": {
+    "webdriverio": "^5.16.8"
+  }
 }
